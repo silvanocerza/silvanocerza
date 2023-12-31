@@ -14,20 +14,16 @@ I have a neglected personal website over [here][silvanocerza-com]. 🏚️
 
 If you want to get in touch with me I'm quite easy to find. 🗺️
 
-[![https://www.linkedin.com/in/silvanocerza/](linkedin-badge)][linkedin-profile]
-
-[![https://news.ycombinator.com/user?id=silvanocerza](ycombinator-badge)][ycombinator-profile]
-
-[![https://mastodon.world/@silvanocerza](mastodon-badge)][mastodon-profile]
+[![https://www.linkedin.com/in/silvanocerza/][linkedin-badge]][linkedin-profile][![https://news.ycombinator.com/user?id=silvanocerza][ycombinator-badge]][ycombinator-profile][![https://mastodon.world/@silvanocerza][mastodon-badge]][mastodon-profile]
 
 [deepset]: https://www.deepset.ai/
 [haystack]: https://github.com/deepset-ai/haystack
 [pitch]: https://pitch.com/
 [arduino]: https://arduino.cc
 [silvanocerza-com]: https://silvanocerza.com
-[linkedin-badge]: https://img.shields.io/badge/-silvanocerza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanocerza/
+[linkedin-badge]: https://img.shields.io/badge/silvanocerza-linkedin?color=0a66c2&style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/silvanocerza/
 [linkedin-profile]: https://www.linkedin.com/in/silvanocerza/
-[ycombinator-badge]: https://img.shields.io/badge/-silvanocerza-orange?style=flat-square&logo=ycombinator&logoColor=white&link=https://news.ycombinator.com/user?id=silvanocerza
+[ycombinator-badge]: https://img.shields.io/badge/silvanocerza-hackernews?color=ff6600&style=flat-square&logo=ycombinator&logoColor=white&link=https://news.ycombinator.com/user?id=silvanocerza
 [ycombinator-profile]: https://news.ycombinator.com/user?id=silvanocerza
-[mastodon-badge]: https://img.shields.io/badge/-silvanocerza-orange?style=flat-square&logo=mastodon&logoColor=white&link=https://mastodon.world/@silvanocerza
+[mastodon-badge]: https://img.shields.io/badge/-silvanocerza-mastodon?color=6364FF&style=flat-square&logo=mastodon&logoColor=white&link=https://mastodon.world/@silvanocerza
 [mastodon-profile]: https://mastodon.world/@silvanocerza
