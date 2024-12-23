@@ -14,7 +14,7 @@ I have a neglected personal website over [here][silvanocerza-com]. 🏚️
 
 If you want to get in touch with me I'm quite easy to find. 🗺️
 
-[![https://www.linkedin.com/in/silvanocerza/][linkedin-badge]][linkedin-profile][![https://news.ycombinator.com/user?id=silvanocerza][ycombinator-badge]][ycombinator-profile][![https://mastodon.world/@silvanocerza][mastodon-badge]][mastodon-profile]
+[![https://www.linkedin.com/in/silvanocerza/][linkedin-badge]][linkedin-profile][![https://news.ycombinator.com/user?id=silvanocerza][ycombinator-badge]][ycombinator-profile][![https://mastodon.world/@silvanocerza][mastodon-badge]][mastodon-profile][![https://bsky.app/profile/silvanocerza.bsky.social][bluesky-badge]][bluesky-profile]
 
 [deepset]: https://www.deepset.ai/
 [haystack]: https://github.com/deepset-ai/haystack
@@ -27,3 +27,5 @@ If you want to get in touch with me I'm quite easy to find. 🗺️
 [ycombinator-profile]: https://news.ycombinator.com/user?id=silvanocerza
 [mastodon-badge]: https://img.shields.io/badge/-silvanocerza-mastodon?color=6364FF&style=flat-square&logo=mastodon&logoColor=white&link=https://mastodon.world/@silvanocerza
 [mastodon-profile]: https://mastodon.world/@silvanocerza
+[bluesky-badge]: https://img.shields.io/badge/-silvanocerza-bluesky?color=0886FE&style=flat-square&logo=bluesky&logoColor=white&link=https://bsky.app/profile/silvanocerza.bsky.social
+[bluesky-profile]: https://bsky.app/profile/silvanocerza.bsky.social
