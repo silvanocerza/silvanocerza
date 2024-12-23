@@ -6,7 +6,7 @@ I get things done. 🔨🔨🔨
 
 Long time Open Source contributor, worked on tons of different projects spanning the whole stack. **Python** expert, used to work with **Go**, **C++** too. Can handle **Typescript**, **React** and **Node** but wouldn't call myself an expert. Had a brief stint with **Clojure/Script**. Trying to work more with **Rust**. I like to think of myself as a generalist.🔥
 
-Currently working at [**deepset**][deepset], mainly on [Haystack][haystack]. 🧑‍💻
+Currently working on some interesting projects. 🧑‍💻
 
 Used to work at [**Arduino**][arduino] and [**Pitch**][pitch]. 🧓
 
